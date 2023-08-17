@@ -3,7 +3,7 @@
 :toclevels: 4
 :sectnums: 4
 :toc: left
-:icons: font
+:icons: font 
 :toc-title: Table of contents
 
 *Last modified* : {docdate} 
