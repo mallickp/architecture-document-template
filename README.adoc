@@ -3,7 +3,7 @@
 This architecture template is applicable to most management IT projects, regardless of the general architecture chosen (monolithic, SOA, microservices, n-tier, ...).
 It has already been used on several large projects in private or governmental organizations. It is maintained on a regular basis.
 
-Others languages : https://github.com/bflorat/modele-da[French].
+
 
 ## Principles of the template
 We have divided the architecture into five views (application, security, sizing, infrastructure and development), each view being mostly self-supporting.
